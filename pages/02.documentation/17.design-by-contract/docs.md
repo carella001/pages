@@ -7,7 +7,7 @@ taxonomy:
 
 In addition to AOP, appserver also offers [Design-by-Contract](http://en.wikipedia.org/wiki/Design_by_contract) out of the box, which is another interesting architectural approach.
 
-First introduced by Bertram Meyer in combination with his design of the [Eiffel programming language](https://en.wikipedia.org/wiki/Eiffel_%28programming_language%29),
+First introduced by Bertrand Meyer in combination with his design of the [Eiffel programming language](https://en.wikipedia.org/wiki/Eiffel_%28programming_language%29),
 Design by Contract allows you to define formal, precise and verifiable interface specifications of
 software components.
 
